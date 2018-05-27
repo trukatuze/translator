@@ -1,0 +1,29 @@
+* {
+  outline: 0 !important;
+}
+.reclama{
+  display: flex;
+  justify-content: center;
+  @include respond-to(phones-landscape) {
+    display: none;
+  }
+  .down{
+    border: 1px solid black;
+    width: 730px;
+    height: 92px;
+    margin: 8px 0 8px 0;
+    cursor: pointer;
+    img{
+      width: 100%;
+      height:90px ;
+    }
+  }
+}
+
+.padding-zero{
+  
+  @include respond-to(phones-landscape){
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}

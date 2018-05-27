@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="22px" viewBox="0 0 11 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic/facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-mock-up-correction" transform="translate(-338.000000, -1122.000000)">
+            <g id="ic/facebook" transform="translate(330.000000, 1120.000000)">
+                <rect id="canvas" x="0" y="0" width="27" height="27"></rect>
+                <path d="M11.2441331,23.6249937 L11.2441331,14.232438 L8.0859375,14.232438 L8.0859375,10.500025 L11.2441331,10.500025 L11.2441331,7.54690707 C11.2441331,5.98831704 11.6816323,4.77835899 12.55663,3.91703292 C13.4316277,3.05570685 14.5937347,2.62504381 16.0429498,2.62504381 C17.2187284,2.62504381 18.1757572,2.67973097 18.9140367,2.78910592 L18.9140367,6.11136362 L16.9452914,6.11136362 C16.2070119,6.11136362 15.7011539,6.27542573 15.4277169,6.60354995 C15.2089676,6.87698701 15.0995927,7.31448555 15.0995927,7.91604682 L15.0995927,10.500025 L18.5859125,10.500025 L18.0937261,14.232438 L15.0995927,14.232438 L15.0995927,23.6249937 L11.2441331,23.6249937 Z" id="facebook" fill="#7C7A83"></path>
+            </g>
+        </g>
+    </g>
+</svg>

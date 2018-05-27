@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic/close</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-mock-up-correction" transform="translate(-778.000000, -1234.000000)">
+            <g id="form-group" transform="translate(537.000000, 1053.000000)">
+                <g id="form-control" transform="translate(1.000000, 42.000000)">
+                    <g id="ic/close" transform="translate(235.000000, 134.000000)">
+                        <rect id="canvas" x="2" y="1" width="20" height="20"></rect>
+                        <path d="M9.89949494,9.89949494 L9.89949494,4.81894965 C9.89949494,3.98762792 10.5652922,3.3137085 11.3994949,3.3137085 C12.2279221,3.3137085 12.8994949,3.98083825 12.8994949,4.81894965 L12.8994949,9.89949494 L17.8084673,9.89949494 C18.6397891,9.89949494 19.3137085,10.5652922 19.3137085,11.3994949 C19.3137085,12.2279221 18.6465787,12.8994949 17.8084673,12.8994949 L12.8994949,12.8994949 L12.8994949,17.8084673 C12.8994949,18.6397891 12.2336977,19.3137085 11.3994949,19.3137085 C10.5710678,19.3137085 9.89949494,18.6465787 9.89949494,17.8084673 L9.89949494,12.8994949 L4.81894965,12.8994949 C3.98762792,12.8994949 3.3137085,12.2336977 3.3137085,11.3994949 C3.3137085,10.5710678 3.98083825,9.89949494 4.81894965,9.89949494 L9.89949494,9.89949494 Z" id="close" fill="#D9534F" transform="translate(11.313708, 11.313708) rotate(-45.000000) translate(-11.313708, -11.313708) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

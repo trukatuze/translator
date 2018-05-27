@@ -1,0 +1,73 @@
+#registration{
+  display: flex;
+  margin: 80px 0 80px 0;
+  @include respond-to(nexus7) {
+    justify-content: center;
+  }
+  @include respond-to(phones-landscape) {
+    justify-content: center;
+  }
+  @include respond-to(tablets-portrait) {
+    justify-content: center;
+  }
+  .container{
+    .row{
+      .son{
+        color: #6242A3;
+        font-family: "Helvetica Neue";
+        font-size: 20px;
+        font-weight: 300;
+        line-height: 24px;
+        text-align: center;
+        a{
+          color: #6242A3;
+          cursor: pointer;
+          span{
+            font-weight: bold;
+          }
+          text-decoration: none;
+        }
+      }
+      .iconreg{
+        display: flex;
+        justify-content: space-around;
+        img{
+          cursor: pointer;
+        }
+      }
+      .give{
+        color: #1A191D;
+        font-family: "Ubuntu";
+        font-size: 24px;
+        font-weight: 500;
+        line-height: 29px;
+        text-transform: capitalize;
+        font-weight: bold;
+      }
+      input{
+        height: 38px;
+        width: 268px;
+        border: 1px solid #BDB7C9;
+        border-radius: 4px;
+        background-color: #FFFFFF;}
+      }
+      textarea{
+        height: 115px;
+        width: 268px;
+        border: 1px solid #BDB7C9;
+        border-radius: 4px;
+        background-color: #FFFFFF;
+        resize: none;
+      }
+    .send-but{
+      height: 38px;
+      width: 97px;
+      border-radius: 4px;
+      background-color: #03DAC5;
+      color: #fff;
+      text-transform: capitalize;
+      border: none;
+    }
+    }
+  }
+
